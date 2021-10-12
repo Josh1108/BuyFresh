@@ -79,7 +79,7 @@ npm==0.1.1
 numpy==1.16.4
 oauth==1.0.1
 olefile==0.45.1
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 optional-django==0.1.0
 pandas==0.25.0
 pandocfilters==1.4.2
