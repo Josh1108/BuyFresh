@@ -76,7 +76,7 @@ netifaces==0.10.4
 nltk==3.4.5
 notebook==6.0.1
 npm==0.1.1
-numpy==1.16.4
+numpy==1.22.0
 oauth==1.0.1
 olefile==0.45.1
 opencv-python==4.1.0.25
