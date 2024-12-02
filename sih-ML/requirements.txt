@@ -92,7 +92,7 @@ plotly==3.10.0
 prometheus-client==0.7.1
 prompt-toolkit==2.0.9
 Protego==0.1.16
-protobuf==3.0.0
+protobuf==3.18.3
 ptyprocess==0.6.0
 pyahocorasick==1.4.0
 pyasn1==0.4.8
